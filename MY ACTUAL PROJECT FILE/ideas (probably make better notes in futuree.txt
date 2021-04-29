@@ -1,1 +1,0 @@
-game timer, times saved to database, sorted with algorithm and placed on leaderboard in the menu
